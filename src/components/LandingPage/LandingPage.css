@@ -1,0 +1,44 @@
+.landing-page{
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 99vh;
+    /* border: 2px solid white; */
+}
+
+hr{
+    margin-top: 30px;
+}
+
+.part{
+    left:auto;
+	right:0px;
+    -webkit-animation: thread2 16s infinite;
+  	-moz-animation:    thread2 16s infinite;
+  	-o-animation:      thread2 16s infinite;
+  	animation:         thread2 16s infinite;
+}
+
+@-webkit-keyframes thread2 {
+    0%   { width: 100%; }
+    50% { width: 100%; }
+    80% { width: 0px;}
+    100%{ width:100%;}
+  }
+  @-moz-keyframes thread2 {
+    0%   { width: 100%; }
+    50% { width: 100%; }
+    80% { width: 0px;}
+    100%{ width:100%;}
+  }
+  @-o-keyframes thread2 {
+    0%   { width: 100%; }
+    50% { width: 100%; }
+    80% { width: 0px;}
+    100%{ width:100%;}
+  }
+  @keyframes thread2 {
+    0%   { width: 100%; }
+    50% { width: 100%; }
+    80% { width: 0px;}
+    100%{ width:100%;}
+}

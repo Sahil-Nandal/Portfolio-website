@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+.work{
+    padding-left: 5%;
+    margin-left: 4%;
+}
+
+.worked{
+    font-family: "IBM Plex Mono";
+    color: white;
+    
+}
+
+.list{
+    display: flex;
+}

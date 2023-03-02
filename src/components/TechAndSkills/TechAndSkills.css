@@ -1,0 +1,7 @@
+.TechAndSkills{
+    display: flex;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5px solid white;
+}
